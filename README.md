@@ -5,4 +5,5 @@ Project ID: 8yGuHp7y
 
 ### Required Packages
 
-`test`
+`opencv`
+`PIL Image`
