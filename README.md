@@ -1,6 +1,6 @@
 # opticalFlow
 
-![alt text](https://drive.google.com/file/d/1pTNeYEaVjif0wbAQUe3VqRbgotZ3ZrlC/view?usp=sharing)
+![alt text](https://github.com/epoch-rand/opticalFlow/blob/main/sample.png?raw=true)
 
 #### Dense Motion Estimation
 Abstract: *An implementation of the Farneback approach for dense motion estimation. Computing the optical flow vector for every pixel of each frame, we are able to infer the direction and velocity of both object and camera.*
