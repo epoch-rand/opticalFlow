@@ -10,4 +10,4 @@ Project ID: 8yGuHp7y
 ### Requirements
 
 - Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.
-- 64-bit Python 3.6 installation. We recommend Anaconda3 with numpy 1.19.1 or newer.
+- 64-bit Python 3.7.9 installation. We recommend Anaconda3 with numpy 1.19.1 or newer.
