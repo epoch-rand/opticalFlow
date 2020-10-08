@@ -5,5 +5,4 @@ Project ID: 8yGuHp7y
 
 ### Required Packages
 
-`opencv`
-`PIL Image`
+`numpy` `opencv` `PIL`
