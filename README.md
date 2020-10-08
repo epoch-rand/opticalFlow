@@ -1,5 +1,7 @@
 # opticalFlow
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 #### Dense Motion Estimation of an Image Sequence
 Abstract: *An implementation of the Farneback approach for dense motion estimation of an image sequence. Computing the optical flow vector for every pixel of each frame, we are able to infer the direction and velocity of both object and camera.*
