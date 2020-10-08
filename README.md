@@ -9,7 +9,7 @@ Abstract: *An implementation of the Farneback approach for dense motion estimati
 
 ### Packages
 
-'os' `numpy` `opencv` `scipy`
+`numpy` `opencv` `pillow`
 
 ### Requirements
 
